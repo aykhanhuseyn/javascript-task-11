@@ -111,3 +111,5 @@ The more specific you are with your questions the more likely it is that another
 We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
 
 **Have fun building!** 🚀
+
+[FIGMA URL](https://www.figma.com/file/bijL36nbLypUUk1qlg1sOI/link-sharing-app?type=design&node-id=26%3A2&mode=design&t=nN9NcJNExGxknlUT-1)
